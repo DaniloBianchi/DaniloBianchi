@@ -1,11 +1,9 @@
 - PHP, Javascript, CSS, HTML
 - Laravel, livewire, Bootstrap, GIT, NPM, MySql
-- ❤️ I lovo SCRUM
+- ❤️ I love SCRUM
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m currently learning at Aulab
 - 👯 I’m looking for a cool job as developer
-
-- 💬 Ask me about PHP, Laravel
 - 📫 How to call me: +39 346 66 51 479
 - 📫 How to right me: danilosmcr@gmail.com
 <!--
