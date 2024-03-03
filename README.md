@@ -6,7 +6,8 @@
 - 👯 I’m looking for a cool job as developer
 
 - 💬 Ask me about PHP, Laravel
-- 📫 How to reach me: +39 346 66 51 479
+- 📫 How to call me: +39 346 66 51 479
+- 📫 How to right me: danilosmcr@gmail.com
 <!--
 **DaniloBianchi/DaniloBianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
