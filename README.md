@@ -1,6 +1,7 @@
+- INTRAPRENDENTE, EFFICIENTE, DINAMICO
 - PHP, Javascript, CSS, HTML
 - Laravel, livewire, Bootstrap, GIT, NPM, MySql
-- ❤️ I love SCRUM
+- ❤️ I love LARAVEL end SCRUM
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m currently learning at Aulab
 - 👯 I’m looking for a cool job as developer
