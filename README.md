@@ -1,7 +1,7 @@
 - INTRAPRENDENTE, EFFICIENTE, DINAMICO
 - PHP, Javascript, CSS, HTML, Jquery, SQL
 - Laravel, livewire, Bootstrap, GIT, NPM, MySql
-- API, cUrl, Ajax, SSE
+- API, cUrl, Ajax, SSE, database, query master
 - ❤️ I love LARAVEL end SCRUM
 - 🔭 I’m currently working on a cool project
 - 📫 How to contact me: +39 346 66 51 479
