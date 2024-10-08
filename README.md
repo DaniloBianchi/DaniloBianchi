@@ -4,7 +4,7 @@
 - API, cUrl, Ajax, SSE, database, query master
 - ❤️ I love LARAVEL end SCRUM
 - 🔭 I’m currently working on a cool project
-- 📫 How to contact me: +39 346 66 51 479
+
 <!--
 **DaniloBianchi/DaniloBianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
